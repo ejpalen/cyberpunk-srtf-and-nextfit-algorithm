@@ -1,0 +1,33 @@
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.exe
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.deps.json
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.Properties.Resources.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.CyberpunkForm.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.exe
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.deps.json
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\bin\Debug\netcoreapp3.1\CyberpunkSRTF.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.CyberpunkForm.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.Properties.Resources.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkSRTF  Final Backup\CyberpunkSRTF\obj\Debug\netcoreapp3.1\CyberpunkSRTF.GeneratedMSBuildEditorConfig.editorconfig

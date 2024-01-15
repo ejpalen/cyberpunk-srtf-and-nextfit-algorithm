@@ -1,0 +1,49 @@
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.exe
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.deps.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.CyberpunkNF.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.Properties.Resources.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.exe
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.deps.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.CyberpunkNF.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.Properties.Resources.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.exe
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.deps.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\bin\Debug\netcoreapp3.1\CyberpunkNEXTFIT.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.CyberpunkNF.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.Properties.Resources.resources
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.dll
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.pdb
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\CyberpunkNEXTFIT Final Backup - Copy\CyberpunkNEXTFIT\obj\Debug\netcoreapp3.1\CyberpunkNEXTFIT.GeneratedMSBuildEditorConfig.editorconfig
